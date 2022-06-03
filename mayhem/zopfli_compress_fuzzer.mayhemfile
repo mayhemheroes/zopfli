@@ -1,0 +1,4 @@
+project: PROJECT
+target: zopfli_compress_fuzzer
+cmds:
+- cmd: /out/zopfli_compress_fuzzer
